@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Vintage Leica M3 Camera",
+    "photo": "https://i.postimg.cc/Pf3nK8fV/Bid1-min.png",
+    "current_bid": "$ 2,850",
+    "time_left": "10 Days left"
+  },
+  {
+    "id": 2,
+    "name": "1965 Gibson SG Standard Electric Guitar",
+    "photo": "https://i.postimg.cc/vHgkzqNB/Bid2-min.png",
+    "current_bid": "$ 3,430",
+    "time_left": "5 Days left"
+  },
+  {
+    "id": 3,
+    "name": "Original Apple Macintosh 128K (1984)",
+    "photo": "https://i.postimg.cc/kMtLNYZG/Bid3-min.png",
+    "current_bid": "$ 3,290",
+    "time_left": "2 Days left"
+  },
+  {
+    "id": 4,
+    "name": "Rolex Submariner 16610",
+    "photo": "https://i.postimg.cc/zBhph6BN/Bid4-min.png",
+    "current_bid": "$ 5,290",
+    "time_left": "8 Days left"
+  },
+  {
+    "id": 5,
+    "name": "Mid-Century Modern Eames Lounge Chair",
+    "photo": "https://i.postimg.cc/RFvq1nC5/Bid6-min.png",
+    "current_bid": "$ 2,200",
+    "time_left": "3 Days left"
+  },
+  {
+    "id": 6,
+    "name": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "photo": "https://i.postimg.cc/TYNmRQdN/Bid5-min.png",
+    "current_bid": "$ 365",
+    "time_left": "1 Days left"
+  },
+  {
+    "id": 7,
+    "name": "Banksy Original Screen Print",
+    "photo": "https://i.postimg.cc/5NQ9Cm5P/Bid7-min.png",
+    "current_bid": "$ 1,590",
+    "time_left": "9 Days left"
+  }
+]
