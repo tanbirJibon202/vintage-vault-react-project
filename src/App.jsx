@@ -1,5 +1,4 @@
 
-
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 import Items from './components/Items/Items'
@@ -73,11 +72,11 @@ function App() {
           </div>
 
 
-          <div className="md:col-span-1 bg-white rounded-lg shadow p-5 h-fit w-96 border-t border-gray-500">
-            <div className="border-b border-gray-200 justify-items-center">
-              <div className="flex gap-2">
-                <FaRegHeart size={25} />
-                <h2 className="text-xl font-semibold text-gray-800">
+          <div className=" md:col-span-1 bg-white rounded-lg shadow p-5 h-fit w-80 border-t border-gray-500">
+            <div className="border-b border-gray-200 items-center justify-items-center">
+              <div className='flex gap-2 justify-center '>
+                <FaRegHeart size={20} />
+                <h2 className="text-xl font-semibold text-gray-800 mb-4">
                   Favorite Items
                 </h2>
               </div>
